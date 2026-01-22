@@ -1,4 +1,5 @@
 Program supports languages: Polish , English , Lithuanian, Hungarian, Chinese
+
 #Language English
 
 MiniConda Navigator v2.5 - Program Description
